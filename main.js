@@ -33,3 +33,7 @@ function partyYellow() {
   document.querySelector("body").style.backgroundColor = "rgba(255, 234, 0)";
   document.querySelector("body").style.color = "white";
 }
+function partyOrange() {
+  document.querySelector("body").style.backgroundColor = "rgba(255,165,0)";
+  document.querySelector("body").style.color = "white";
+}
